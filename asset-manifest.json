@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/g-pay/static/css/main.e8c89c95.css",
+    "main.js": "/g-pay/static/js/main.18cf4cc9.js",
+    "static/js/787.7e10cf2c.chunk.js": "/g-pay/static/js/787.7e10cf2c.chunk.js",
+    "index.html": "/g-pay/index.html",
+    "main.e8c89c95.css.map": "/g-pay/static/css/main.e8c89c95.css.map",
+    "main.18cf4cc9.js.map": "/g-pay/static/js/main.18cf4cc9.js.map",
+    "787.7e10cf2c.chunk.js.map": "/g-pay/static/js/787.7e10cf2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c89c95.css",
+    "static/js/main.18cf4cc9.js"
+  ]
+}
